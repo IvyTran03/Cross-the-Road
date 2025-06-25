@@ -25,6 +25,9 @@ A mobile game inspired by Crossy Road, where the player must dodge traffic and c
 - Implemented win condition logic: detected when the player reaches the goal zone and triggered the end-game state
 - Developed the score system: increased score based on player progress and displayed it in the UI
 - Collaborated on game logic and UI design with teammates
+
+## Where to Find the Game Code
+frogger/app/src/main/java/com/example/frogger
   
 ## Demo
 
